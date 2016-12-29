@@ -1,0 +1,8 @@
+#guess the number
+
+#show introduction
+#choose random target
+
+target = 10 #start with known value
+#initialize a guess counter
+guessCounter = 0
